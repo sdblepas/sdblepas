@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate developer from Israel!</h3>
+<h3 align="center">A passionate DevOps from Israel!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradzekler&theme=gruvbox" alt="sdblepas" /></a> </p>
 
