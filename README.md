@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arad</h1>
+<h3 align="center">A passionate developer from Israel!</h3>
 
-<!--
-**sdblepas/sdblepas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradzekler&theme=gruvbox" alt="sdblepas" /></a> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/sdblepas](https://github.com/sdblepas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **DevOps!**
+
+- 📫 How to reach me **@sdblepas**
+
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sdblepas&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdblepas&layout=compact" />
+</div>
