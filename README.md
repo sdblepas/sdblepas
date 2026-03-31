@@ -1,16 +1,55 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate DevOps from Israel!</h3>
+<h3 align="center">DevOps Architect | Cloud | Kubernetes | AI tinkerer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradzekler&theme=gruvbox" alt="sdblepas" /></a> </p>
+<p align="center">
+  Building scalable systems • Breaking bad architectures • Shipping fast
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sdblepas](https://github.com/sdblepas)
+---
 
-- 💬 Ask me about **DevOps!**
+### 🚀 About Me
+- 🧠 DevOps & Cloud Architect (Azure, Kubernetes, FinOps mindset)
+- ⚙️ Building automation, platforms & internal tools
+- 🤖 Currently working on a local **AI QA Agent for code review & testing**
+- 💡 Strong opinions about architecture, weak tolerance for bad YAML
 
-- 📫 How to reach me **@sdblepas**
+---
 
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,python,fastapi,redis,linux,githubactions,jenkins" />
+</p>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sdblepas&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sdblepas&layout=compact" />
-</div>
+---
+
+### 🔥 Featured Project
+#### 🎬 CinePlete – Your Plex missing movies engine
+- ⚡ Scan thousands of movies in seconds
+- 🎯 Detect missing movies (franchises, actors, directors, classics)
+- 🤖 Integrates with Radarr
+- 📊 Clean dashboard & insights
+
+👉 https://github.com/sdblepas/CinePlete
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sdblepas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdblepas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sdblepas&theme=onestar&no-frame=true&row=1" />
+</p>
+
+---
+
+### 📫 Contact
+<p align="center">
+  <a href="https://github.com/sdblepas">GitHub</a> • 
+  <a href="https://twitter.com/sdblepas">Twitter/X</a>
+</p>
