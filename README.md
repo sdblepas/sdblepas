@@ -35,15 +35,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sdblepas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdblepas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdblepas&theme=onestar&no-frame=true&row=1" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sdblepas&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sdblepas&layout=compact" />
 </p>
 
 ---
